@@ -13,3 +13,10 @@ Branching and the advantages
   git checkout/ git switch: to change the branch for instance git checkout trial would take ys to the branch trial
   git branch trial: creates a new branch called trial
   git merge trial would merge the changes that were in trial to the main branch
+
+best practices
+-don't git push straight to master. Branch it out
+-adequately configure the commit authorship
+-write descriptive and meaningful commit messages
+-commit only related work
+-avoid rewriting the master's history
