@@ -1,2 +1,9 @@
 git is a distributed version control system
 it is used to manage and track changes made to code over time
+
+advantages
+ collaboration
+ allows multiple developers to work on the same codebase
+ provide a record of all changes
+ easy identification and resolution of conflicts
+ facilitates code reviews
